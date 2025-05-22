@@ -1,0 +1,1 @@
+public class Pet { public int Id; public string Name; public string Species; public int Age; public int OwnerId; }

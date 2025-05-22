@@ -1,0 +1,15 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.companyname.petcaremanager">
+    <application android:label="PetCareManager" android:theme="@style/Maui.SplashTheme">
+        <activity android:name="crc6452ffdc5b34af3a0f.MainActivity"
+                  android:exported="true"
+                  android:launchMode="singleTop"
+                  android:configChanges="locale|orientation|screenSize"
+                  android:windowSoftInputMode="adjustResize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

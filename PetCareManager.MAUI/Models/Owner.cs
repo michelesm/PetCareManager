@@ -1,0 +1,1 @@
+public class Owner { public int Id; public string Name; public string Email; public string Phone; }
