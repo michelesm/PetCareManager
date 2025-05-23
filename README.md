@@ -1,4 +1,3 @@
-Aqui está o projeto completo chamado **PetCareManager**, uma aplicação para cadastro e gerenciamento de animais de estimação e seus donos. A seguir, detalho os principais pontos, arquitetura, funcionamento, estrutura de diretórios, código e como rodar o projeto.
 
 ---
 
